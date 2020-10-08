@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="582025e2-079a-49ef-8b2a-aec38b1c82f7" name="Default Changelist" comment="" />
+    <list default="true" id="28d2b83b-5038-493e-a6cb-babf390c865b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1iXpP1XV6M3PdBGuT2ZzHCPsffi" />
+  <component name="ProjectId" id="1iaIz7zG0LFWJTiqaRWelrR6MP4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +37,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="numeridivisibili" />
+      <module name="files" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -54,11 +54,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="582025e2-079a-49ef-8b2a-aec38b1c82f7" name="Default Changelist" comment="" />
-      <created>1602063762757</created>
+      <changelist id="28d2b83b-5038-493e-a6cb-babf390c865b" name="Default Changelist" comment="" />
+      <created>1602139535824</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602063762757</updated>
+      <updated>1602139535824</updated>
     </task>
     <servers />
   </component>
@@ -72,6 +72,27 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602140065650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602140065650" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1602140318581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602140318581" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1602140318581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602140318581" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1602140318581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602140318581" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1602140318581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602140318581" />
   </component>
 </project>
